@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "UnoAuthTest",
+  "display": "standalone",
+  "name": "UnoAuthTest",
+  "short_name": "UnoAuthTest",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

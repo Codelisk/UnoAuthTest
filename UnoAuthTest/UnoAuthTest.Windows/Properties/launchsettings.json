@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"UnoAuthTest.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"UnoAuthTest.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
